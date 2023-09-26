@@ -1,0 +1,13 @@
+{
+    "username": "YOUR_USERNAME_HERE",
+    "password": "YOUR_PASSWORD_HERE",
+    "bearer_token": "YOUR_BEARER_TOKEN_HERE",
+    "circle_name": "PC 2023 Senior Assassin",
+    "bot_users": ["John Doe", "Mary Jane"],
+    "alert_recipients": ["+1PHONENO1", "+1PHONENO2"],
+    "twilio_sid": "TWILIO_SID",
+    "twilio_auth_token": "TWILIO_AUTHTOKEN",
+    "twilio_from_number": "TWILIO_FROM_NUMBER",
+    "refresh_rate": 160,
+    "closest_allowed_distance": 1
+}
